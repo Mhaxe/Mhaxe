@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself with you.
 - 🔗 You can find me on [LinkedIn]Hayibor Maxwell .
 - 🐦 Follow me on [Twitter] @m2_hay2.
 - 📧 Feel free to [email me] mxwllhayibor@gmail.com for inquiries or collaborations.
-- 🌐 working on a bkog/website
+- 🌐 working on a blog/website
 
 
 - 🌟 I believe in the power of positivity and continuous growth.
