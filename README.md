@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself with you.
 
 ## What I Do
 
-- 💻 I love to code and create projects in Python,HTML,CSS,Kotlin and a bit of C++.
+- 💻 I love to code and create projects in Python(django),HTML,CSS and Kotlin. 
 - 🧠 I'm passionate about developing softwares on all kinds of systems.
 - 📝 You'll find a variety of my projects and contributions on my GitHub.
 - 🌐 I'm also active in the developer community and enjoy collaborating with others.
